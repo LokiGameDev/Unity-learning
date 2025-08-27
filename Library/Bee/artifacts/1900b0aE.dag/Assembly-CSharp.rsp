@@ -333,7 +333,13 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Core.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Core.Runtime.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Core.ShaderLibrary.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Searcher.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.ShaderGraph.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.ref.dll"
@@ -355,11 +361,11 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.23f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.23f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
--analyzer:"Library/PackageCache/com.unity.collab-proxy@2.9.2/Lib/Editor/log4netPlastic.dll"
--analyzer:"Library/PackageCache/com.unity.collab-proxy@2.9.2/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll"
--analyzer:"Library/PackageCache/com.unity.collab-proxy@2.9.2/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll"
+"Assets/TileMapping/Scripts/GridData.cs"
 "Assets/TileMapping/Scripts/InputManager.cs"
+"Assets/TileMapping/Scripts/ObjectsDatabaseSO.cs"
 "Assets/TileMapping/Scripts/PlacementSystem.cs"
+"Assets/TileMapping/Scripts/PreviewSystem.cs"
 -langversion:9.0
 
 /deterministic
