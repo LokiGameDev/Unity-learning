@@ -64,11 +64,16 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.23f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\TileMapping\Scripts\CameraController.cs" />
     <Compile Include="Assets\TileMapping\Scripts\InputManager.cs" />
     <Compile Include="Assets\TileMapping\Scripts\ObjectsDatabaseSO.cs" />
+    <Compile Include="Assets\TileMapping\Scripts\IBuildingState.cs" />
     <Compile Include="Assets\TileMapping\Scripts\GridData.cs" />
+    <Compile Include="Assets\TileMapping\Scripts\RemovingState.cs" />
     <Compile Include="Assets\TileMapping\Scripts\PlacementSystem.cs" />
     <Compile Include="Assets\TileMapping\Scripts\PreviewSystem.cs" />
+    <Compile Include="Assets\TileMapping\Scripts\ObjectPlacer.cs" />
+    <Compile Include="Assets\TileMapping\Scripts\PlacementState.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
